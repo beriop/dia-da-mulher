@@ -1,0 +1,11 @@
+img {height: 500px;border-radius: 50px; border: 4px solid ;
+}
+h3 {font-family: 'roboto', arial ;}
+
+.digimon {text-align: center;
+    border: 4px solid; ;background-color: rgb(217, 250, 250);border-radius: 122px; font-family: 'roboto'
+    ;}
+    
+li {font-size: 35px; margin-bottom: 20px;}
+a {text-decoration: solid;font-size: 50px ;}
+body {background-color: #363434;}
